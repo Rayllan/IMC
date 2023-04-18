@@ -15,4 +15,4 @@ Pede-se:
 Nome, altura e peso de uma pessoa
 O sistema calcula o diagnóstico do IMC
 O sistema imprime o nome, peso, altura, IMC e diagnóstico da pessoa
-[Hero](https://www.programasaudefacil.com.br/calculadora-de-imc).
+[Here](https://www.programasaudefacil.com.br/calculadora-de-imc).
